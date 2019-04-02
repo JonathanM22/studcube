@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 h2{
  background-color: #FEFFED;
  padding: 30px 35px;
